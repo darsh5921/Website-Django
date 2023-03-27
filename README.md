@@ -29,7 +29,7 @@ Django Admin Panel of the website to manage Backend.
 
 # Instructions :
 pip install django , bootstrap ,
-django visual studio code extension 
+django visual studio code extension.
 
 # Run server by :
 python manage.py runserver to open the website.
