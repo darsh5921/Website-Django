@@ -1,0 +1,5 @@
+This is a static file and can be viewed by anyone from the link by /static
+ 
+Include those files here which you want to show to people
+eg images which user can download
+do not put code or sensitive info here because it is viewed by anyone
