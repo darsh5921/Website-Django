@@ -28,7 +28,7 @@ Django Admin Panel of the website to manage Backend.
 ![Screenshot 2023-03-27 122525](https://user-images.githubusercontent.com/104684690/227933390-71c3309d-d3f1-439b-8bd8-9cea9cbda16d.png)
 
 # Instructions :
-pip install django , bootstrap
+pip install django , bootstrap ,
 django visual studio code extension 
 
 # Run server by :
